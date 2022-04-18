@@ -1,0 +1,12 @@
+{
+  "id" : "1",
+  "person" : {
+    "id" : 1010101,
+    "identification_number" : "515151511",
+    "first_name" : "Carlos",
+    "last_name" : "Smith",
+    "email" : "csmith@gmail.com",
+    "age" : 29
+  },
+  "status" : "InEvaluation"
+}
